@@ -2,7 +2,7 @@ var helpMessage = "𝙀𝙘𝙝𝙤が起動しました。\n\n🔥現在サポ�
 
 function padZero(e) {
 	return e.toString().padStart(2, '0');
-};
+}
 
 function comJud(e) {
     if (e == "/help") {
